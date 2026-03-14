@@ -1,0 +1,28 @@
+{
+  "id_da_família": 10,
+  "nome_da_familia": "Amari",
+  "usuarios": [
+    {
+      "id_usuario": 1,
+      "nome_usuario": "Ada Amari",
+      "email": "ada@gmail.com",
+      "senha": "123456",
+      "usuario_criado_em": "01/04/2022",
+      "status": 1,
+      "transacoes": [
+        {
+          "id_transacao": 1,
+          "data": "2024-04-01",
+          "descricao": "Salário Ada",
+          "categoria": "Renda",
+          "valor": 3000,
+          "tipo": "Renda",
+          "fonte": null,
+          "status": 1
+        },
+        ...
+      ]
+    },
+    ...
+  ]
+}
